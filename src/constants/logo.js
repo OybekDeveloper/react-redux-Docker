@@ -1,0 +1,1 @@
+export const logo='https://bek-tube.vercel.app/static/media/logo3.bd897dccb75348a9a67e.jpg'
